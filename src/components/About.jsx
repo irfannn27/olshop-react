@@ -6,7 +6,7 @@ const About = () => {
     <section id="About" className={`flex w-full container lg:mx-auto sm:px-16 px-5 sm:flex-row flex-col justify-around bg-[#f3f5ff] py-16`}>
       <div className="sm:w-1/2 w-full flex justify-center px-8 mb-4 flex-col font-poppins">
         <h1 className="font-extrabold text-[28px] text-slate-900 pb-4">Tentang Kami</h1>
-        <p className="font-normal text-[14px] leading-6 text-[#323a44] pb-7">Temukan Gaya Fashion & Aksesoris Terbaru, Makanan Lezat Yang Bikin Lidah Meleleh, Serta Cetak Foto yang Berkualitas Hanya di NoemiShop!</p>
+        <p className="font-normal text-[14px] leading-6 text-[#323a44] pb-7">Temukan Gaya Fashion & Aksesoris Terbaru, Makanan Lezat Yang Bikin Lidah Meleleh, Serta Cetak Foto yang Berkualitas Hanya di FarahShop!</p>
       </div>
       <div className="px-8 sm:w-1/2 w-full font-poppins">
         {about.map((ab) => (

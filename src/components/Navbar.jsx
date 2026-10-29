@@ -10,7 +10,7 @@ const Navbar = () => {
     <>
     <nav className={`fixed z-[9999] w-full flex ${styles.paddingX} py-6 justify-between items-center navbar font-bold font-poppins shadow-md z-[9999] bg-white`}>
         <div className="font-poppins font-extrabold">
-          <h1 className="text-[20px]">Noemi<span className="text-[#3e3eff]">Shop</span></h1>
+          <h1 className="text-[20px]">Farah<span className="text-[#3e3eff]">Shop</span></h1>
         </div>
         <ul className="sm:flex justify-end items-center flex-1 hidden">
           {navLinks.map((nav,index) => (

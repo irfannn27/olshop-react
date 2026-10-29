@@ -28,7 +28,7 @@ export const navLinks =  [
 
 export const heroSection = {
     title : 'Selamat Datang di',
-    deskripsi : 'NoemiShop adalah tempat dimana Anda bisa menemukan segala yang Anda butuhkan. Kami menawarkan berbagai Produk, Makanan, serta Layanan & Jasa.'
+    deskripsi : 'FarahShop adalah tempat dimana Anda bisa menemukan segala yang Anda butuhkan. Kami menawarkan berbagai Produk, Makanan, serta Layanan & Jasa.'
   };
 
 
